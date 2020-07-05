@@ -8,5 +8,6 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
+* [Assignment description](./descriptions/assignment2/Assignment-2.md)
 * Deadline: June 29, 12:29 PM IST
 * [Solution](https://whis20.github.io/Coursera-Web-Development/Module-2/)
