@@ -12,7 +12,7 @@ This repository contains my solutions to the assignments of the Coursera course
 * Deadline: June 29, 12:29 PM IST
 * [Solution](https://whis20.github.io/Coursera-Web-Development/Module-2/)
 
-### Module 2
+### Module 3
 * [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 * Deadline: July 6, 12:29 PM IST
 * [Solution](https://whis20.github.io/Coursera-Web-Development/Module-3/)
