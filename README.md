@@ -18,3 +18,7 @@ This repository contains my solutions to the assignments of the Coursera course
 * [Solution](https://whis20.github.io/Coursera-Web-Development/Module-3/)
 * [Solution (extra)](https://whis20.github.io/Coursera-Web-Development/Module-3/index-extra.html)
 
+### Module 4
+* [Assignment description](https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/descriptions/assignment4/Assignment-4.md)
+* Deadline: July 13, 12:29 PM IST
+* [Solution](https://whis20.github.io/Coursera-Web-Development/Module-4/)
