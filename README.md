@@ -19,6 +19,11 @@ This repository contains my solutions to the assignments of the Coursera course
 * [Solution (extra)](https://whis20.github.io/Coursera-Web-Development/Module-3/index-extra.html)
 
 ### Module 4
-* [Assignment description](https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/descriptions/assignment4/Assignment-4.md)
+* [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
 * Deadline: July 13, 12:29 PM IST
 * [Solution](https://whis20.github.io/Coursera-Web-Development/Module-4/)
+
+### Module 5
+* [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+* Deadline: July 20, 12:29 PM IST
+* [Solution](https://whis20.github.io/Coursera-Web-Development/Module-5/index.html)
